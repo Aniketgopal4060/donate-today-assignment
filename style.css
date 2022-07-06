@@ -7,7 +7,7 @@ html {
 
 
 .helping {
-    background-image: linear-gradient(rgba(60, 56, 56, 0.5), rgba(31, 1, 1, 0.5)), url("donation13.jpg");
+    background-image: linear-gradient(rgba(60, 56, 56, 0.5), rgba(31, 1, 1, 0.5)), url(donite.jpg);
     height: 80%;
     width: 100%;
     background-position: center;
@@ -170,9 +170,10 @@ html {
 .box1 {
     display: flex;
     justify-content: center;
+
 }
 
-.content {
+.content1 {
     margin: 50px;
     background-color: rgb(241, 227, 241);
     width: 300px;
@@ -184,6 +185,34 @@ html {
     border-radius: 5px;
 
 }
+
+.content2 {
+    margin: 50px;
+    background-color: rgb(206, 162, 244);
+    width: 300px;
+    height: 290px;
+    border: 1px solid grey;
+    text-align: left;
+    padding-left: 40px;
+    box-shadow: 8px 8px 5px gray;
+    border-radius: 5px;
+
+}
+
+.content3 {
+    margin: 50px;
+    background-color: rgb(239, 151, 203);
+    width: 300px;
+    height: 290px;
+    border: 1px solid grey;
+    text-align: left;
+    padding-left: 40px;
+    box-shadow: 8px 8px 5px gray;
+    border-radius: 5px;
+
+}
+
+
 
 .food-icon {
     width: 100px;
